@@ -1,2 +1,5 @@
-# latihan-github-xpplg1
-latihan-github-xpplg1
+nama : nimas 
+<br>
+kelas: xpplg1
+
+i love coding
